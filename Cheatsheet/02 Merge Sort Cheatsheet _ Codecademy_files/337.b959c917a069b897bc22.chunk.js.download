@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[337],{gvsu:function(t,_,e){"use strict";e.d(_,"a",function(){return i});const i=t=>{return Object.values(t.entities.reviewCards.byId).filter(t=>t.title&&t.body)}}}]);
+//# sourceMappingURL=337.b959c917a069b897bc22.chunk.js.map

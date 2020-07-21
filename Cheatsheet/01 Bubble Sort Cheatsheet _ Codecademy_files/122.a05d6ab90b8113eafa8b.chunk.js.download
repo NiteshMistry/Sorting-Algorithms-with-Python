@@ -1,0 +1,2 @@
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[122],{EtwR:function(_,a,c){"use strict";var e=c("q1tI"),i=c.n(e),n=c("TSYQ"),o=c.n(n),t="cardGrid__3agVPNaYQyKxcac5Moisza",r="fourCol__2tW1mm54f6YwdTPkVk5iwi",s="threeCol__2HjgKxzeoY6TnxTwQ3cOOH";a.a=({children:_,as:a="div",columns:c})=>i.a.createElement(a,{className:o()(t,{[r]:4===c,[s]:3===c})},_)}}]);
+//# sourceMappingURL=122.a05d6ab90b8113eafa8b.chunk.js.map
